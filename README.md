@@ -95,6 +95,8 @@ You are an internal HR assistant. Help employees understand benefits and payroll
 
 ## Demo flow
 
+![Prompt Firewall audit chat interface](docs/assets/audit-chat-screenshot.png)
+
 1. Run `npm run dev`.
 2. Paste the ecommerce prompt above.
 3. Click **Run Audit**.
